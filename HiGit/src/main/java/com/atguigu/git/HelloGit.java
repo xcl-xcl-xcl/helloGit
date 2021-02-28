@@ -1,0 +1,12 @@
+package com.atguigu.git;
+
+/**
+ * @author xul
+ * @create 2021-02-28 16:02
+ */
+public class HelloGit {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
